@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<img src="https://raw.githubusercontent.com/ha-bib24/cover/main/Screenshot%202025-03-13%20230345.png" alt="Cover Photo" />
+<img src="[https://raw.githubusercontent.com/ha-bib24/cover/main/Screenshot%202025-03-13%20230345.pn](https://github.com/The-Musafir/cover/blob/main/Screenshot%202025-11-14%20185459.png)" alt="Cover Photo" />
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm *MD.Habibur Rahman*
