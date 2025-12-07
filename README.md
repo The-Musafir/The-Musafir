@@ -45,7 +45,7 @@
         <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" height="50" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" height="50" title="Kaggle"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" height="70" title="Kaggle"/>
       </a>
     </td>
   </tr>
