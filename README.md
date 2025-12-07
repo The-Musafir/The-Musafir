@@ -63,7 +63,7 @@
 - Building smarter solutions, learning every day.
 
 
-## Freelance Work? Do reach out 📬 → [mail](mailto:habiburrahman10224@gmail.com)
+### Freelance Work? Do reach out 📬 → [mail](mailto:habiburrahman10224@gmail.com)
 </div>
 
 <!-- GitHub Stats with Black Background -->
@@ -80,8 +80,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
-
 ☕ Fuel My Coding Sessions  
 If you appreciate my work, consider supporting:  
 
@@ -91,7 +89,7 @@ If you appreciate my work, consider supporting:
 
 ---
 
-### 🚧 Todo LIst Productivity Stats
+### 🚧 Todo List Productivity Stats
 <!-- TODOLST:START -->
 🏆  8,004 Karma Points  
 🌸  Completed 0 tasks today  
@@ -104,17 +102,17 @@ If you appreciate my work, consider supporting:
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <!-- GitHub Stats 
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>-->
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Musafir&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Musafir&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+</p>-->
 
 </div>
 
