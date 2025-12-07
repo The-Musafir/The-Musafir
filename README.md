@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<img src="https://raw.githubusercontent.com/ha-bib24/cover/main/Screenshot%202025-03-13%20230345.png" alt="Cover Photo" />
+<img src="[https://raw.githubusercontent.com/ha-bib24/cover/main/Screenshot%202025-03-13%20230345.png](https://scontent.fcgp7-2.fna.fbcdn.net/v/t39.30808-6/582080472_1685816459240102_4809656213434572189_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHWXup8agweYbjEZBGPdLgSjTJ1ZvRMrriNMnVm9EyuuGIIc8S6Z6g888OyBkfOJcX9pNmPZVysOFY5MFmRmOjH&_nc_ohc=QGR3YaEmsl8Q7kNvwHV73I3&_nc_oc=AdndN2UbCiRigizMnhYNoRp8nKfzIrGYldR_aEpoduFakaur-CHYCOdLswTenHJ5woU&_nc_zt=23&_nc_ht=scontent.fcgp7-2.fna&_nc_gid=eUK0cJvnhBvacAkuGPxqEQ&oh=00_Afl6TBFffMuoqRrjhUgQJLnh9QOTljGo6flBVcDyRPaVNA&oe=693AFE8F)" alt="Cover Photo" />
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm *MD.Habibur Rahman*
@@ -28,7 +28,7 @@
     </td>
     <!-- Middle Column (Dots) -->
     <td align="center" valign="middle" width="33%">
-      <p>................................................................................................................................................................................................................</p>
+      <p>....................................................................................................................................................................................................................................................</p>
     </td>
     <!-- Right Column -->
     <td align="right" valign="top">
