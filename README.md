@@ -1,6 +1,6 @@
 <!-- Header Section -->
-[<img src="https://github.com/The-Musafir/cover/blob/main/Screenshot%202025-11-14%20185459.png" alt="Cover Photo" />
-<div style="background-color: #000000; color: white; padding: 30px; border-radius: 20px;
+<img src="https://github.com/The-Musafir/cover/blob/main/Screenshot%202025-11-14%20185459.png" alt="Cover Photo" />
+<div style="background-color: #000000; color: white; padding: 30px; border-radius: 20px;">
 
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
@@ -50,6 +50,11 @@
     </td>
   </tr>
 </table>
+
+
+<!-- About Me with Black Background -->
+<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
+  
 <!-- About Me -->
 ## 🧑💻 Who Am I?
 ### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
