@@ -5,16 +5,16 @@
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ha_bib_/)
-[![Threads](https://img.shields.io/badge/Threads-2D2F4E?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ha_bib_)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/224HaBiB/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Habib1191210)
-[![Medium](https://img.shields.io/badge/Medium_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habiburrahman10224)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ha-bib--24y)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ha-bib24)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Habib-i9n8u)
-</div>
-
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==)
+  [![Threads](https://img.shields.io/badge/Threads-2D2F4E?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@___ha_bib__)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/224HaBiB/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Habib1191210)
+  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@habiburrahman10224)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ha-bib--24y)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Musafir)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Habib-i9n8u)
+</p>
 <!-- About Me with Black Background -->
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
