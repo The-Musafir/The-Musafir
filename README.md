@@ -5,37 +5,43 @@
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
-<table width="100%">
+<table>
   <tr>
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" width="70" style="border-radius:50%; margin:5px"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="80" height="80"/>
+      </a><br><br>
+      <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="80" height="80"/>
       </a>
     </td>
 
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" width="70" style="border-radius:50%; margin:5px"/>
-      </a><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
+      </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" width="70" style="border-radius:50%; margin:5px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="80" height="80"/>
+      </a><br><br>
+      <a href="https://www.kaggle.com/habib2025" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="80" height="80"/>
       </a>
     </td>
   </tr>
