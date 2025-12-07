@@ -6,33 +6,36 @@
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
 <p align="center">
+  <!-- Left 4 logos -->
   <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" height="50"/>
   </a>
   <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-2D2F4E?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+    <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" height="50"/>
   </a>
   <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" height="50"/>
   </a>
   <a href="https://x.com/Habib1191210" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@habiburrahman10224" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/The-Musafir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" height="50"/>
   </a>
 </p>
-<!-- About Me with Black Background -->
-<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
+
+<p align="center" style="margin-top: 10px;">
+  <!-- Right 4 logos -->
+  <a href="https://medium.com/@habiburrahman10224" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" height="50"/>
+  </a>
+  <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" height="50"/>
+  </a>
+  <a href="https://github.com/The-Musafir" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" height="50"/>
+  </a>
+  <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" height="50"/>
+  </a>
+</p>
 
 <!-- About Me -->
 ## 🧑💻 Who Am I?
