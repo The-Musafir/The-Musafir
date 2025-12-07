@@ -13,7 +13,7 @@
         <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" title="Instagram"/>
       </a><br><br>
      <a href="https://www.threads.net/@___ha_bib__" target="_blank">
-  <img src="https://www.vecteezy.com/png/26845718-threads-social-media-logo-icon" width="50" height="50" title="Threads"/>
+  <img src="https://github.com/The-Musafir/cover/blob/main/threads-.png" width="50" height="50" title="Threads"/>
     </a>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
@@ -45,7 +45,7 @@
         <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" height="50" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="50" height="70" title="Kaggle"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="70" height="70" title="Kaggle"/>
       </a>
     </td>
   </tr>
