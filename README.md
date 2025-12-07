@@ -27,9 +27,9 @@
     </td>
     <!-- Middle Column (Dots) -->
     <td align="center" valign="middle" width="33%">
-      <p>                                                                                                                   </p>
+      <p>....................................................</p>
     </td>
-    <!-- Right Column -->
+  <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
         <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="50" height="50" title="Medium"/>
