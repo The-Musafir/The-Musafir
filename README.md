@@ -12,8 +12,9 @@
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
         <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" title="Instagram"/>
       </a><br><br>
-      <a href="https://www.threads.net/@___ha_bib__" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Threads_(app)_logo.svg" width="50" height="50" title="Threads"/>
+     <a href="https://www.threads.net/@___ha_bib__" target="_blank">
+  <img src="https://www.vecteezy.com/png/26845718-threads-social-media-logo-icon" width="50" height="50" title="Threads"/>
+    </a>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
         <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" height="50" title="Facebook"/>
@@ -27,7 +28,7 @@
     </td>
     <!-- Middle Column (Dots) -->
     <td align="center" valign="middle" width="33%">
-      <p>............................................................................................................................................................................</p>
+      <p>................................................................................................................................................................................................................</p>
     </td>
     <!-- Right Column -->
     <td align="right" valign="top">
