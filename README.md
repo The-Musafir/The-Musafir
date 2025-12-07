@@ -5,19 +5,41 @@
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
-<!-- Left Column -->
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.threads.com/@___ha_bib__)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.facebook.com/224HaBiB/)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" width="60"/>](https://x.com/Habib1191210)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000" width="60"/>](https://leetcode.com/u/MD-Habibur_Rahman/)
+<table width="100%">
+  <tr>
+    <!-- Left Column -->
+    <td align="left" valign="top">
+      <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://www.threads.com/@___ha_bib__" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://www.facebook.com/224HaBiB/" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://x.com/Habib1191210" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" width="70" style="border-radius:50%; margin:5px"/>
+      </a>
+    </td>
 
-<!-- Right Column -->
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" width="60"/>](https://medium.com/@habiburrahman10224)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" width="60"/>](https://linkedin.com/in/ha-bib--24y)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" width="60"/>](https://github.com/The-Musafir)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.youtube.com/@Habib-i9n8u)  
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.kaggle.com/habib2025)
+    <!-- Right Column -->
+    <td align="right" valign="top">
+      <a href="https://medium.com/@habiburrahman10224" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://github.com/The-Musafir" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" width="70" style="border-radius:50%; margin:5px"/>
+      </a><br>
+      <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" width="70" style="border-radius:50%; margin:5px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- About Me -->
 ## 🧑💻 Who Am I?
 ### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
