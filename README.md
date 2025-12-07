@@ -6,18 +6,18 @@
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
 <!-- Left Column -->
-[![Instagram](https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000&link=https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==)](https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==)  
-[![Threads](https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000&link=https://www.threads.com/@___ha_bib__)](https://www.threads.com/@___ha_bib__)  
-[![Facebook](https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000&link=https://www.facebook.com/224HaBiB/)](https://www.facebook.com/224HaBiB/)  
-[![Twitter](https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000&link=https://x.com/Habib1191210)](https://x.com/Habib1191210)  
-[![LeetCode](https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000&link=https://leetcode.com/u/MD-Habibur_Rahman/)](https://leetcode.com/u/MD-Habibur_Rahman/)
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.threads.com/@___ha_bib__)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.facebook.com/224HaBiB/)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" width="60"/>](https://x.com/Habib1191210)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000" width="60"/>](https://leetcode.com/u/MD-Habibur_Rahman/)
 
 <!-- Right Column -->
-[![Medium](https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000&link=https://medium.com/@habiburrahman10224)](https://medium.com/@habiburrahman10224)  
-[![LinkedIn](https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&link=https://linkedin.com/in/ha-bib--24y)](https://linkedin.com/in/ha-bib--24y)  
-[![GitHub](https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000&link=https://github.com/The-Musafir)](https://github.com/The-Musafir)  
-[![YouTube](https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000&link=https://www.youtube.com/@Habib-i9n8u)](https://www.youtube.com/@Habib-i9n8u)  
-[![Kaggle](https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000&link=https://www.kaggle.com/habib2025)](https://www.kaggle.com/habib2025)
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" width="60"/>](https://medium.com/@habiburrahman10224)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" width="60"/>](https://linkedin.com/in/ha-bib--24y)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" width="60"/>](https://github.com/The-Musafir)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.youtube.com/@Habib-i9n8u)  
+[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000" width="60"/>](https://www.kaggle.com/habib2025)
 <!-- About Me -->
 ## 🧑💻 Who Am I?
 ### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
