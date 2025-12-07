@@ -5,60 +5,47 @@
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@habiburrahman10224" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" height="70"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <!-- Left Column -->
+    <td align="left" valign="top">
+      <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://www.threads.com/@___ha_bib__" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://www.facebook.com/224HaBiB/" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://x.com/Habib1191210" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000" alt="LeetCode" width="70" height="70"/>
+      </a>
+    </td>
 
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" height="70"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/The-Musafir" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" height="70"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 4 -->
-  <a href="https://x.com/Habib1191210" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" height="70"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 5 -->
-  <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000" alt="LeetCode" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/habib2025" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000" alt="Kaggle" height="70"/>
-  </a>
-</p>
+    <!-- Right Column -->
+    <td align="right" valign="top">
+      <a href="https://medium.com/@habiburrahman10224" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://github.com/The-Musafir" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" width="70" height="70"/>
+      </a><br><br>
+      <a href="https://www.kaggle.com/habib2025" target="_blank">
+        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000" alt="Kaggle" width="70" height="70"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- About Me -->
 ## 🧑💻 Who Am I?
 ### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
