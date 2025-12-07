@@ -5,42 +5,46 @@
 # 👋 Hello! I'm *MD.Habibur Rahman*
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
-<table>
+<table width="100%">
   <tr>
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" height="50"/>
       </a>
+    </td>
+    <!-- Middle Column (Dots) -->
+    <td align="center" valign="middle" width="33%">
+      <p>....................................................</p>
     </td>
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="50" height="50"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="80" height="60"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="50" height="50"/>
       </a>
     </td>
   </tr>
