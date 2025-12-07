@@ -10,42 +10,57 @@
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000" alt="Instagram" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" class="circle-icon"/>
       </a><br><br>
       <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=threads&logoColor=ffffff&labelColor=000000" alt="Threads" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" alt="Threads" class="circle-icon"/>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000" alt="Facebook" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" class="circle-icon"/>
       </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="Twitter" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" class="circle-icon"/>
       </a><br><br>
       <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000" alt="LeetCode" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" class="circle-icon"/>
       </a>
     </td>
 
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000" alt="Medium" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" class="circle-icon"/>
       </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" alt="LinkedIn" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" class="circle-icon"/>
       </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="GitHub" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" class="circle-icon"/>
       </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000" alt="YouTube" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" class="circle-icon"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kaggle&logoColor=ffffff&labelColor=000000" alt="Kaggle" width="70" height="70"/>
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" class="circle-icon"/>
       </a>
     </td>
   </tr>
 </table>
+
+<style>
+.circle-icon {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #000000;
+  padding: 10px;
+  transition: transform 0.3s;
+}
+
+.circle-icon:hover {
+  transform: scale(1.2);
+}
+</style>
 <!-- About Me -->
 ## 🧑💻 Who Am I?
 ### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
