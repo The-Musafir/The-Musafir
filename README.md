@@ -41,7 +41,7 @@
       <a href="https://github.com/The-Musafir" target="_blank">
         <img src="https://img.icons8.com/fluency/96/github.png" width="100" height="100" title="GitHub"/>
       </a><br><br>
-      <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
+      <a href="https://www.youtube.com/@The-Musafir-y5b" target="_blank">
         <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="100" height="100" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
