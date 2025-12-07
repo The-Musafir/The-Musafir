@@ -10,20 +10,20 @@
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" title="Instagram"/>
+        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="70" height="70" title="Instagram"/>
       </a><br><br>
      <a href="https://www.threads.net/@___ha_bib__" target="_blank">
-  <img src="https://github.com/The-Musafir/cover/blob/main/threads-.png" width="50" height="50" title="Threads"/>
+  <img src="https://github.com/The-Musafir/cover/blob/main/threads-.png" width="70" height="70" title="Threads"/>
     </a>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" height="50" title="Facebook"/>
+        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="70" height="70" title="Facebook"/>
       </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/twitter.png" width="50" height="50" title="Twitter"/>
+        <img src="https://img.icons8.com/fluency/96/twitter.png" width="70" height="70" title="Twitter"/>
       </a><br><br>
       <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" title="LeetCode"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70" height="70" title="LeetCode"/>
       </a>
     </td>
     <!-- Middle Column (Dots) -->
@@ -33,16 +33,16 @@
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="50" height="50" title="Medium"/>
+        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="70" height="70" title="Medium"/>
       </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" height="50" title="LinkedIn"/>
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="70" height="70" title="LinkedIn"/>
       </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/github.png" width="50" height="50" title="GitHub"/>
+        <img src="https://img.icons8.com/fluency/96/github.png" width="70" height="70" title="GitHub"/>
       </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" height="50" title="YouTube"/>
+        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70" height="70" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="70" height="70" title="Kaggle"/>
@@ -102,19 +102,13 @@ If you appreciate my work, consider supporting:
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats 
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>-->
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Musafir&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Musafir&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>-->
-
 </div>
+
 
 <!-- Tech Stack with Black Background -->
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
@@ -126,16 +120,16 @@ If you appreciate my work, consider supporting:
 ## 🛠 Skills
 
 ### Programming Languages
-| Logo | Name | Proficiency |
-|------|------|-------------|
+| Logo         | Name           | Proficiency |
+|--------------|----------------|-------------|
 | <img src="https://img.icons8.com/color/48/python.png" width="30"/> | *Python* | ██████████ 90% |
 | <img src="https://img.icons8.com/color/48/javascript.png" width="30"/> | *JavaScript* | █████████ 85% |
 | <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> | *C / C++* | ████████ 75% |
 | <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/> | *Java* | ███████ 70% |
 
 ### Python Libraries
-| Logo | Name | Proficiency |
-|------|------|-------------|
+| Logo         | Name           | Proficiency |
+|--------------|----------------|-------------|
 | <img src="https://img.icons8.com/color/48/numpy.png" width="30"/> | *NumPy* | ██████████ 95% |
 | <img src="https://img.icons8.com/color/48/pandas.png" width="30"/> | *Pandas* | ██████████ 90% |
 | <img src="https://img.icons8.com/color/48/matplotlib.png" width="30"/> | *Matplotlib* | █████████ 85% |
@@ -145,8 +139,8 @@ If you appreciate my work, consider supporting:
 | <img src="https://img.icons8.com/color/48/pytorch.png" width="30"/> | *PyTorch* | ████████ 80% |
 
 ### Frontend
-| Logo | Name | Proficiency |
-|------|------|-------------|
+| Logo         | Name           | Proficiency |
+|--------------|----------------|-------------|
 | <img src="https://img.icons8.com/color/48/html-5.png" width="30"/> | *HTML* | █████████ 85% |
 | <img src="https://img.icons8.com/color/48/css3.png" width="30"/> | *CSS* | █████████ 85% |
 | <img src="https://img.icons8.com/color/48/tailwindcss.png" width="30"/> | *Tailwind CSS* | █████████ 80% |
@@ -154,14 +148,15 @@ If you appreciate my work, consider supporting:
 | <img src="https://img.icons8.com/color/48/react-native.png" width="30"/> | *React Native* | █████████ 85% |
 
 ### Databases & Tools
-| Logo | Name | Proficiency |
-|------|------|-------------|
+| Logo         | Name             | Proficiency |
+|--------------|------------------|-------------|
 | <img src="https://img.icons8.com/color/48/sql.png" width="30"/> | *SQL* | █████████ 80% |
 | <img src="https://img.icons8.com/color/48/mysql.png" width="30"/> | *MySQL* | ████████ 75% |
 | <img src="https://img.icons8.com/color/48/oop.png" width="30"/> | *OOP* | █████████ 85% |
 | <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="30"/> | *MS Word* | ███████ 65% |
 | <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="30"/> | *MS Excel* | ███████ 65% |
 | <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="30"/> | *MS PowerPoint* | ███████ 65% |
+
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -170,10 +165,10 @@ If you appreciate my work, consider supporting:
 
 <!-- Contribution Snake -->
 
-<!-- Projects -->
+<!-- Projects 
 ## 🚀 Projects
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=The-Musafir&repo=project1&theme=radical)](https://github.com/The-Musafir/project1)  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=The-Musafir&repo=project2&theme=merko)](https://github.com/The-Musafir/project2)  
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=The-Musafir&repo=project2&theme=merko)](https://github.com/The-Musafir/project2)  -->
 
 <!-- Fun Section -->
 ## 😄 Fun Fact
