@@ -10,20 +10,20 @@
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="70" height="70" title="Instagram"/>
+        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="100" height="100" title="Instagram"/>
       </a><br><br>
      <a href="https://www.threads.net/@___ha_bib__" target="_blank">
-  <img src="https://github.com/The-Musafir/cover/blob/main/threads-.png" width="70" height="70" title="Threads"/>
+  <img src="https://github.com/The-Musafir/cover/blob/main/threads-.png" width="100" height="100" title="Threads"/>
     </a>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="70" height="70" title="Facebook"/>
+        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="100" height="100" title="Facebook"/>
       </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/twitter.png" width="70" height="70" title="Twitter"/>
+        <img src="https://img.icons8.com/fluency/96/twitter.png" width="100" height="100" title="Twitter"/>
       </a><br><br>
       <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70" height="70" title="LeetCode"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="100" height="100" title="LeetCode"/>
       </a>
     </td>
     <!-- Middle Column (Dots) -->
@@ -33,19 +33,19 @@
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="70" height="70" title="Medium"/>
+        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="100" height="100" title="Medium"/>
       </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="70" height="70" title="LinkedIn"/>
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="100" height="100" title="LinkedIn"/>
       </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/github.png" width="70" height="70" title="GitHub"/>
+        <img src="https://img.icons8.com/fluency/96/github.png" width="100" height="100" title="GitHub"/>
       </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70" height="70" title="YouTube"/>
+        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="100" height="100" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="70" height="70" title="Kaggle"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="100" height="100" title="Kaggle"/>
       </a>
     </td>
   </tr>
@@ -120,12 +120,12 @@ If you appreciate my work, consider supporting:
 ## 🛠 Skills
 
 ### Programming Languages
-| Logo         | Name           | Proficiency |
-|--------------|----------------|-------------|
-| <img src="https://img.icons8.com/color/48/python.png" width="30"/> | *Python* | ██████████ 90% |
-| <img src="https://img.icons8.com/color/48/javascript.png" width="30"/> | *JavaScript* | █████████ 85% |
-| <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> | *C / C++* | ████████ 75% |
-| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/> | *Java* | ███████ 70% |
+| Logo                                               | Name                                           | Proficiency |
+|----------------------------------------------------|------------------------------------------------|-------------|
+| <img src="https://img.icons8.com/color/48/python.png" width="30"/>                       | *Python*         | ██████████ 90% |
+| <img src="https://img.icons8.com/color/48/javascript.png" width="30"/>                   | *JavaScript*     | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/>                | *C / C++*        | ████████ 75% |
+| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/>         | *Java*           | ███████ 70% |
 
 ### Python Libraries
 | Logo         | Name           | Proficiency |
