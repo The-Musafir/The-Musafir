@@ -85,13 +85,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ☕ Fuel My Coding Sessions  
 If you appreciate my work, consider supporting:  
 
-<a href="https://buymeacoffee.com/md.habib" target="_blank">
+<a href="buymeacoffee.com/MD.HABIB" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
 ---
 
-### 🚧 Todoist Productivity Stats
+### 🚧 Todo LIst Productivity Stats
 <!-- TODOLST:START -->
 🏆  8,004 Karma Points  
 🌸  Completed 0 tasks today  
@@ -102,8 +102,18 @@ If you appreciate my work, consider supporting:
 ---
 
 ### 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=gotham" alt="GitHub Stats">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Musafir&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Musafir&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 </div>
@@ -114,15 +124,6 @@ If you appreciate my work, consider supporting:
 
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
-
-### Frontend & Mobile:
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)]()
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-</div>
-
 ### Programming Languages:
 ## 🛠 Skills
 
