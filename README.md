@@ -10,19 +10,19 @@
     <!-- Left Column -->
     <td align="left" valign="top">
       <a href="https://www.instagram.com/___ha_bib__?igsh=MWFjcGpvYXNtbDV5Zg==" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" title="Instagram"/>
       </a><br><br>
       <a href="https://www.threads.com/@___ha_bib__" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/threads.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/threads.png" width="50" height="50" title="Threads"/>
       </a><br><br>
       <a href="https://www.facebook.com/224HaBiB/" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" height="50" title="Facebook"/>
       </a><br><br>
       <a href="https://x.com/Habib1191210" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/twitter.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/twitter.png" width="50" height="50" title="Twitter"/>
       </a><br><br>
       <a href="https://leetcode.com/u/MD-Habibur_Rahman/" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-leetcode-programming-challenges-platform-logo-color-tal-revivo.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-leetcode-programming-challenges-platform-logo-color-tal-revivo.png" width="50" height="50" title="LeetCode"/>
       </a>
     </td>
     <!-- Middle Column (Dots) -->
@@ -32,19 +32,19 @@
     <!-- Right Column -->
     <td align="right" valign="top">
       <a href="https://medium.com/@habiburrahman10224" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/medium-logo.png" width="50" height="50" title="Medium"/>
       </a><br><br>
       <a href="https://linkedin.com/in/ha-bib--24y" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" height="50" title="LinkedIn"/>
       </a><br><br>
       <a href="https://github.com/The-Musafir" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/github.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/github.png" width="50" height="50" title="GitHub"/>
       </a><br><br>
       <a href="https://www.youtube.com/@Habib-i9n8u" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="50" height="50" title="YouTube"/>
       </a><br><br>
       <a href="https://www.kaggle.com/habib2025" target="_blank">
-        <img src="https://img.icons8.com/fluency/96/kaggle.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/fluency/96/kaggle.png" width="50" height="50" title="Kaggle"/>
       </a>
     </td>
   </tr>
