@@ -56,13 +56,16 @@
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
   
 <!-- About Me -->
-## 🧑💻 Who Am I?
-### 🔍 Aspiring Data Scientist || Frontend (React Native) | BSc in CSE(Ongoing )|| AI & Data Science Research || Building Smarter Solutions.  
-
+## 🧑💻 About Me
+- *Aspiring Data Scientist | AI & ML Researcher*
+- *Frontend / React Native Developer*
+- *BSc in CSE (Ongoing)*
+- Building smarter solutions, learning every day.
 
 
 ## Freelance Work? Do reach out 📬 → [mail](mailto:habiburrahman10224@gmail.com)
 </div>
+
 <!-- GitHub Stats with Black Background -->
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
@@ -89,7 +92,7 @@ If you appreciate my work, consider supporting:
 ---
 
 ### 🚧 Todoist Productivity Stats
-<!-- TODOIST:START -->
+<!-- TODOLST:START -->
 🏆  8,004 Karma Points  
 🌸  Completed 0 tasks today  
 ✅  Completed 673 tasks so far  
@@ -100,7 +103,7 @@ If you appreciate my work, consider supporting:
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha-bib24&show_icons=true&theme=gotham" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=gotham" alt="GitHub Stats">
 </p>
 
 </div>
@@ -121,34 +124,57 @@ If you appreciate my work, consider supporting:
 </div>
 
 ### Programming Languages:
-[![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+## 🛠 Skills
 
-### Databases:
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
+### Programming Languages
+| Logo | Name | Proficiency |
+|------|------|-------------|
+| <img src="https://img.icons8.com/color/48/python.png" width="30"/> | *Python* | ██████████ 90% |
+| <img src="https://img.icons8.com/color/48/javascript.png" width="30"/> | *JavaScript* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/> | *C / C++* | ████████ 75% |
+| <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/> | *Java* | ███████ 70% |
 
-### Tools & Others:
-[![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=oop&logoColor=white)]()
-[![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
-[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()
+### Python Libraries
+| Logo | Name | Proficiency |
+|------|------|-------------|
+| <img src="https://img.icons8.com/color/48/numpy.png" width="30"/> | *NumPy* | ██████████ 95% |
+| <img src="https://img.icons8.com/color/48/pandas.png" width="30"/> | *Pandas* | ██████████ 90% |
+| <img src="https://img.icons8.com/color/48/matplotlib.png" width="30"/> | *Matplotlib* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/seaborn.png" width="30"/> | *Seaborn* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/scikit-learn.png" width="30"/> | *Scikit-Learn* | ██████████ 90% |
+| <img src="https://img.icons8.com/color/48/tensorflow.png" width="30"/> | *TensorFlow* | ████████ 80% |
+| <img src="https://img.icons8.com/color/48/pytorch.png" width="30"/> | *PyTorch* | ████████ 80% |
 
+### Frontend
+| Logo | Name | Proficiency |
+|------|------|-------------|
+| <img src="https://img.icons8.com/color/48/html-5.png" width="30"/> | *HTML* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/css3.png" width="30"/> | *CSS* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/tailwindcss.png" width="30"/> | *Tailwind CSS* | █████████ 80% |
+| <img src="https://img.icons8.com/color/48/daisyui.png" width="30"/> | *DaisyUI* | ████████ 75% |
+| <img src="https://img.icons8.com/color/48/react-native.png" width="30"/> | *React Native* | █████████ 85% |
+
+### Databases & Tools
+| Logo | Name | Proficiency |
+|------|------|-------------|
+| <img src="https://img.icons8.com/color/48/sql.png" width="30"/> | *SQL* | █████████ 80% |
+| <img src="https://img.icons8.com/color/48/mysql.png" width="30"/> | *MySQL* | ████████ 75% |
+| <img src="https://img.icons8.com/color/48/oop.png" width="30"/> | *OOP* | █████████ 85% |
+| <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="30"/> | *MS Word* | ███████ 65% |
+| <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="30"/> | *MS Excel* | ███████ 65% |
+| <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="30"/> | *MS PowerPoint* | ███████ 65% |
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ha-bib24&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-bib24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=The-Musafir&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Musafir4&layout=compact&theme=vision-friendly-dark)](https://github.com/The-Musafir/github-readme-stats)  
 
 <!-- Contribution Snake -->
 
 <!-- Projects -->
 ## 🚀 Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ha-bib24&repo=project1&theme=radical)](https://github.com/ha-bib24/project1)  
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ha-bib24&repo=project2&theme=merko)](https://github.com/ha-bib24/project2)  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=The-Musafir&repo=project1&theme=radical)](https://github.com/The-Musafir/project1)  
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=The-Musafir&repo=project2&theme=merko)](https://github.com/The-Musafir/project2)  
 
 <!-- Fun Section -->
 ## 😄 Fun Fact
@@ -156,7 +182,7 @@ If you appreciate my work, consider supporting:
  
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-bib24&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Musafir&show_icons=true&theme=radical)](https://github.com/The-Musafir/github-readme-stats)
 
 🐍 Contribution Activity
 
@@ -164,7 +190,7 @@ If you appreciate my work, consider supporting:
 
 
 ## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ha-bib24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Musafir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Jokes Card
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
